@@ -27,4 +27,4 @@ RioFS License
 
 RioFS is [licensed under
 GPLv3](https://github.com/skoobe/riofs/blob/master/COPYING), keep that in mind
-when distributing its binaries :)
+when distributing it in binary format.
